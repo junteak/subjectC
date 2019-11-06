@@ -2,6 +2,7 @@
 C-5,6,
 '''
 
+
 # C-1. フルネームを取得できる
 class Customer:
     def __init__(self, first_name, family_name, age):
